@@ -16,7 +16,7 @@ export default function Home() {
           )`,
         }}
       >
-        <h1 className="text-5xl md:text-5xl font-extrabold -tracking-tight">Areun</h1>
+        <h1 className="text-5xl md:text-5xl font-extrabold -tracking-tight capitalize">luxetryst</h1>
         <h1
           className="text-5xl md:text-8xl font-extrabold tracking-tight"
           style={{ color: BRAND_COLORS.text.primary }}
